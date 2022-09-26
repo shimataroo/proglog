@@ -8,4 +8,4 @@
 |---------|--------|----------------------------------------------|
 | ch1     | ✔︎     | https://github.com/shimataroo/proglog/pull/1 |
 | ch2     | ✔︎     | https://github.com/shimataroo/proglog/pull/2 |
-| ch3...  |        |                                              |
+| ch3...  | ✔︎     | https://github.com/shimataroo/proglog/pull/3 |
